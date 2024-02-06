@@ -5,3 +5,6 @@
 <img src= "https://github.com/Vaibhav-Bhalala/chat_app_0.2/assets/122871366/ada27a87-67a6-478e-b744-57de518eda64" width="250px">
 <img src= "https://github.com/Vaibhav-Bhalala/chat_app_0.2/assets/122871366/3653a4a9-fb78-4c73-a043-817d7b073fc4" width="250px">
 <img src= "https://github.com/Vaibhav-Bhalala/chat_app_0.2/assets/122871366/96a680a8-acb7-44f5-b75c-f2b83a01fc39" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/chat_app_0.2/assets/122871366/a0101cc5-5474-49cc-bde8-9c0e4b3ea7fa" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/chat_app_0.2/assets/122871366/8781eb13-e023-41f7-b50d-d1f87f89b9e0" width="250px">
+
